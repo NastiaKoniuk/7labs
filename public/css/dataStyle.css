@@ -1,0 +1,33 @@
+
+.UserDiv{
+    flex:1 300px;
+    padding: 10px;
+    margin: 10px;
+
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.UserDiv strong{
+    font-size: 20px;
+}
+
+.Wrapper{
+    display:flex;
+}
+
+.Wrapper2{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.UserDiv2{
+    padding: 10px;
+    margin: 10px;
+    flex:1 150px;
+    max-width: 150px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+h1{
+    color:green;
+}
